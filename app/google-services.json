@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706143434277",
+    "firebase_url": "https://shetkaridukan-a8d2e.firebaseio.com",
+    "project_id": "shetkaridukan-a8d2e",
+    "storage_bucket": "shetkaridukan-a8d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706143434277:android:4c151e95f926bf7053b1cc",
+        "android_client_info": {
+          "package_name": "com.grocery.dukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706143434277-7cn296dqrinnhe47ro4kub3tvg8v2mhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RS7bd08a9g_vbhqukDwuwBoegAeuKD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706143434277-7cn296dqrinnhe47ro4kub3tvg8v2mhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
